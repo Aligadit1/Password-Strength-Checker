@@ -30,10 +30,12 @@ A simple and interactive web application built with **Python** and **Streamlit**
    cd password-strength-meter
    
 2. Install dependencies
-    pip install streamlit
+   ```bash
+   pip install streamlit
    
 ▶️ Usage
 Run the app locally with the following command:
+```bash
 streamlit run app.py
 Then open your browser and go to:
 http://localhost:8501
